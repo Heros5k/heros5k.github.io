@@ -31,29 +31,13 @@
       <div class="chip" aria-hidden="true">Angaben gemäß § 5 TMG</div>
       <h1>Impressum</h1>
 
-      <!--
-        ► Anleitung
-        1) Ersetze die Platzhalter in eckigen Klammern mit deinen echten Daten.
-        2) Wenn du deine Adresse als Bild einbinden willst (Spamschutz), erstelle z.B. eine PNG-Grafik
-           deiner Anschrift und ersetze die Datei-URL unten (id="addrImg"). Lasse den Text trotzdem im HTML
-           als "sr-only" für Barrierefreiheit und Compliance.
-        3) Lade diese Datei z.B. zu GitHub Pages, Netlify, Vercel oder auf deinen Webspace hoch.
-        4) Verlinke diese Seite von Twitch → Linktree → Impressum (max. 2 Klicks).
-      -->
-
       <section aria-labelledby="inhaber">
         <h2 id="inhaber">Diensteanbieter</h2>
         <div class="row">
           <p><strong>Heros Hajetschek</strong></p>
 
-          <!-- Sichtbarer Text der Anschrift (Standard): -->
           <p class="addr-text">Hauptstr. 100<br>76327 Pfinztal</p>
 
-          <!-- Optional: Adresse zusätzlich/alternativ als Bild (Spamschutz).  
-               Tipp: lass den sr-only Text bestehen, auch wenn du ein Bild nutzt.  -->
-          <!-- <img id="addrImg" class="addr-img" src="/pfad/zu/deiner-adresse.png" alt="Anschrift von [Dein vollständiger Name]"> -->
-
-          <!-- Screenreader/Barrierefreiheit: gleiche Anschrift als sr-only Text -->
           <p class="sr-only">Adresse: Hauptsr. 100, 76327 Pfinztal</p>
         </div>
       </section>
@@ -61,8 +45,6 @@
       <section aria-labelledby="kontakt">
         <h2 id="kontakt">Kontakt</h2>
         <p>E-Mail: <a href="mailto:heros5k.business@gmail.com">heros5k.business@gmail.com</a></p>
-        <!-- Telefon ist optional; bei Bedarf einkommentieren: -->
-        <!-- <p>Telefon: [deine Telefonnummer]</p> -->
       </section>
 
       <section aria-labelledby="ust">
