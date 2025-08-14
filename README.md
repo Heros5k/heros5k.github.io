@@ -48,8 +48,6 @@
       </section>
 
       <section aria-labelledby="ust">
-        <h2 id="ust">Umsatzsteuer-ID: N/A</h2>
-            <!-- Beispiel: <p>USt-IdNr.: DE123456789</p> -->
       </section>
 
       <section aria-labelledby="verantwortlich">
