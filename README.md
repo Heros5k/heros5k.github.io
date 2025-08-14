@@ -38,7 +38,7 @@
 
           <p class="addr-text">Hauptstr. 100<br>76327 Pfinztal</p>
 
-          <p class="sr-only">Adresse: Hauptsr. 100, 76327 Pfinztal</p>
+          <p class="sr-only">Adresse: Hauptstr. 100, 76327 Pfinztal</p>
         </div>
       </section>
 
